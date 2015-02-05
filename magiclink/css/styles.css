@@ -1,0 +1,17 @@
+body {
+    background-color: blue;
+    font-size:48px;
+    font-family:Helvetica,Arial,sans-serif;
+}
+
+p {
+    color: red;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.two {
+    color: orange;
+    font-size: 18px;
+    font-size: 48px;
+}
