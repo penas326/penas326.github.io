@@ -1,18 +1,11 @@
+h3 {
+	color: red;
+	font-size: 48px;
+}
+
 body {
     background-color: black;
     color: white;
     font-size:48px;
     font-family:Helvetica,Arial,sans-serif;
-}
-
-.norma {
-    color: red;
-    font-weight: bold;
-    font-size: 24px;
-}
-
-.two {
-    color: orange;
-    font-size: 18px;
-    font-size: 48px;
 }
