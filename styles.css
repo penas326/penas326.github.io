@@ -1,15 +1,14 @@
 h1 {
     color: white;
-}
-
-body {
-    background-color: black;
-}
-h4 {
-    color: white;
-    font-size: 68px;
+    font-size: 200px;
 }
 
 h3 {
     color: white;
+    font-size: 100px;
+}
+
+body {
+    background-color: black;
+    font-family:Helvetica,Arial,sans-serif;
 }
