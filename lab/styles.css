@@ -18,6 +18,12 @@ li {
 }
 
 
+h6 {
+    color: white;
+    font-size: 15px;
+}
+
+
 body {
     background-color: black;
     font-family: "Trebuchet MS", Helvetica, sans-serif
