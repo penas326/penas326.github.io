@@ -3,6 +3,8 @@ body {
     margin: 0;
     font-family: ArialNarrow, Arial, Helvetica,sans-serif;
     color: white;
+    
+    
 }
 
 .header {
@@ -14,8 +16,8 @@ body {
     height:500px;
     margin:20px;
     padding:20px;
-    float:left;
-    background-color:yellow;
+    float:right;
+    background-color:00ff00;
 }
 
 .c2 {
@@ -23,8 +25,8 @@ body {
     height:500px;
     margin:20px;
     padding:20px;
-    float:left;
-    background-color:yellow;
+    float:right;
+    background-color:ffff00;
 }
 
 .c3 {
@@ -32,6 +34,6 @@ body {
     height:500px;
     margin:20px;
     padding:20px;
-    float:left;
-    background-color:yellow;
+    float:right;
+    background-color: 0000ff;
 }
