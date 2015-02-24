@@ -39,6 +39,7 @@ body {
     background-color: #0000ff;
 }
 
-a:active {
-    color: #0000FF;
+a:hover, a:visited, a:link, a:active{
+    text-decoration:none;
+    
 }
