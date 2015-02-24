@@ -19,7 +19,7 @@ body {
 .c1 {
     width:40px;
     height:550px;
-    margin:20px;
+    margin:40px;
     padding:40px;
     float:right;
     background-color:#00ff00;
@@ -28,7 +28,7 @@ body {
 .c2 {
     width:40px;
     height:550px;
-    margin:20px;
+    margin:40px;
     padding:40px;
     float:right;
     background-color: #ffff00;
@@ -37,7 +37,7 @@ body {
 .c3 {
     width:40px;
     height:550px;
-    margin:20px;
+    margin:40px;
     padding:40px;
     float:right;
     background-color: #0000ff;
