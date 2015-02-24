@@ -16,7 +16,7 @@ body {
 }
 
 
-.c1 {
+.other {
     width:40px;
     height:550px;
     margin:40px,40px,20px,20px;
@@ -25,7 +25,7 @@ body {
     background-color:#00ff00;
 }
 
-.c2 {
+.paper {
     width:40px;
     height:550px;
     margin:20px;
@@ -34,7 +34,7 @@ body {
     background-color: #ffff00;
 }
 
-.c3 {
+.plastic {
     width:40px;
     height:550px;
     margin:20px;
