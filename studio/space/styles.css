@@ -1,12 +1,9 @@
-body {
+.intro {
+    
     background: #000;
     margin: 0;
     font-family: Din Condensed, Helvetica, sans-serif;
     color: #ffffff;
-    
-}
-
-.intro {
     font-size: 180px;
     width:40px;
     height:500px;
