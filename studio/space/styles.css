@@ -15,6 +15,7 @@ body {
     width:40px;
     height:500px;
     margin:20px;
+    padding:20px;
     float:right;
     background-color:#00ff00;
 }
@@ -23,6 +24,7 @@ body {
     width:40px;
     height:500px;
     margin:20px;
+    padding:20px;
     float:right;
     background-color: #ffff00;
 }
@@ -31,6 +33,7 @@ body {
     width:40px;
     height:500px;
     margin:20px;
+    padding:20px;
     float:right;
     background-color: #0000ff;
 }
