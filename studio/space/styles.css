@@ -1,16 +1,37 @@
-h1 {
-    color: white;
-    font-size: 130px;
-    font-family: ArialNarrow, Arial, Helvetica,sans-serif 
-}
-
-h3 {
-    color: white;
-    font-size: 0px;
-    font-family: ArialNarrow, Arial, Helvetica,sans-serif
-}
-
 body {
-    background-color: black;
+    background: #000;
+    margin: 0;
+    font-family: ArialNarrow, Arial, Helvetica,sans-serif;
+    color: white;
+}
 
+.header {
+    font-size: 130px;
+}
+
+.c1 {
+    width:40px;
+    height:500px;
+    margin:20px;
+    padding:20px;
+    float:left;
+    background-color:yellow;
+}
+
+.c2 {
+    width:40px;
+    height:500px;
+    margin:20px;
+    padding:20px;
+    float:left;
+    background-color:yellow;
+}
+
+.c3 {
+    width:40px;
+    height:500px;
+    margin:20px;
+    padding:20px;
+    float:left;
+    background-color:yellow;
 }
