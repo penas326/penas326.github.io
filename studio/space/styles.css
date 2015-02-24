@@ -16,7 +16,7 @@ body {
 }
 
 
-.other {
+.plastic {
     width:40px;
     height:550px;
     margin:40px,40px,20px,20px;
@@ -34,7 +34,7 @@ body {
     background-color: #ffff00;
 }
 
-.plastic {
+.other {
     width:40px;
     height:550px;
     margin:20px;
