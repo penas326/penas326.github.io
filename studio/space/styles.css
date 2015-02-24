@@ -12,17 +12,13 @@ body {
 
 
 .c1 {
-    
+    color: black;
     width:40px;
     height:500px;
     margin:20px;
     padding:40px;
     float:right;
     background-color:#00ff00;
-
-}
-a:hover {
-    color: #FF00FF;
 }
 
 .c2 {
@@ -41,4 +37,8 @@ a:hover {
     padding:40px;
     float:right;
     background-color: #0000ff;
+}
+
+a:active {
+    color: #0000FF;
 }
