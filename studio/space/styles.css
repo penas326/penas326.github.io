@@ -2,7 +2,7 @@ body {
     background: #000;
     margin: 0;
     font-family: Din Condensed, Helvetica, sans-serif;
-    color: white;
+    color: #ffffff;
     
 }
 
@@ -12,7 +12,7 @@ body {
 
 
 .c1 {
-    color: black;
+    color: #000000;
     width:40px;
     height:500px;
     margin:20px;
