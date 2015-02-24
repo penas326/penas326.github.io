@@ -12,7 +12,7 @@ body {
 
 
 .c1 {
-
+    
     width:40px;
     height:500px;
     margin:20px;
@@ -31,6 +31,7 @@ body {
 }
 
 .c3 {
+    color:black;
     width:40px;
     height:500px;
     margin:20px;
