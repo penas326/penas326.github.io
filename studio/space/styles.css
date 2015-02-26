@@ -14,6 +14,7 @@ body {
     float:left;
 }
 #largepaper {
+    font-size:180px;
     position: absolute;
     top: 1000px;
 }
