@@ -14,15 +14,9 @@ body {
     float:left;
 }
 
-h4 {
+h2 {
 	color: #00000;
 	font-size: 48px;
-	width:40px;
-    height:550px;
-    margin:20px;
-    padding:40px;
-    float:right;
-    background-color: #0000ff;
 }
 
 .plastic {
