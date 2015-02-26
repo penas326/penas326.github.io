@@ -13,6 +13,10 @@ body {
     padding:40px;
     float:left;
 }
+#sample {
+    position: absolute;
+    top: 1000px;
+}
 
 h2 {
 	color: #00000;
