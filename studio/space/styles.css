@@ -13,8 +13,7 @@ body {
     padding:40px;
     float:left;
 }
-.paper {
-    
+#paper {
     position: absolute;
     top: 1000px;
 }
