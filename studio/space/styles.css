@@ -94,6 +94,12 @@ a:hover, a:visited, a:link, a:active{
     width:1380px;
     height:690px;
     float:right;
-    background-color:#000000;
-    color: #000000;
+    background-color:#00000
+}
+#paperthumbs {
+    position: absolute;
+    top: 2070px;
+    padding: 40px;
+    margin:60px;
+    background-color: #ffff00;
 }
