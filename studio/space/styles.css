@@ -87,17 +87,13 @@ a:hover, a:visited, a:link, a:active{
     background-color:#0000ff;
     color: #000000;
 }
-
 #papergallery {
     position: absolute;
     top: 2070px;
-    font-size: 0px;
+    font-size: 330px;
     width:1380px;
     height:690px;
-    margin:0px;
-    padding:0px;
     float:right;
-    background-color:#ffff00;
+    background-color:#000000;
     color: #000000;
-    
 }
