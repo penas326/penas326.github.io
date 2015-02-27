@@ -73,7 +73,7 @@ a:hover, a:visited, a:link, a:active{
     height:690px;
     float:right;
     background-color:#00000;
-    text-align: center;
+    text-align: justify;
 }
 #plasticthumbs {
     position: absolute;
