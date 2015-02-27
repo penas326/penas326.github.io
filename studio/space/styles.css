@@ -14,43 +14,6 @@ body {
     padding:40px;
     float:left;
 }
-#blackpaper {
-    position: absolute;
-    top: 690px;
-    font-size: 330px;
-    width:1380px;
-    height:690px;
-    margin:0px;
-    padding:0px;
-    float:right;
-    background-color:#ffff00;
-    color: #000000;
-}
-#blackplastic {
-    position: absolute;
-    top: 1380px;
-    font-size: 330px;
-    width:1380px;
-    height:690px;
-    margin:0px;
-    padding:0px;
-    float:right;
-    background-color:#00ff00;
-    color: #000000;
-}
-#blackother {
-    position: absolute;
-    top: 2070px;
-    font-size: 330px;
-    width:1380px;;
-    height:690px;
-    margin:0px;
-    padding:0px;
-    float:right;
-    background-color:#0000ff;
-    color: #000000;
-}
-
 
 h2 {
 	color: #00000;
@@ -87,4 +50,40 @@ h2 {
 
 a:hover, a:visited, a:link, a:active{
     text-decoration:none;
+}
+#blackpaper {
+    position: absolute;
+    top: 690px;
+    font-size: 330px;
+    width:1380px;
+    height:690px;
+    margin:0px;
+    padding:0px;
+    float:right;
+    background-color:#ffff00;
+    color: #000000;
+}
+#blackplastic {
+    position: absolute;
+    top: 1380px;
+    font-size: 330px;
+    width:1380px;
+    height:690px;
+    margin:0px;
+    padding:0px;
+    float:right;
+    background-color:#00ff00;
+    color: #000000;
+}
+#blackother {
+    position: absolute;
+    top: 2070px;
+    font-size: 330px;
+    width:1380px;;
+    height:690px;
+    margin:0px;
+    padding:0px;
+    float:right;
+    background-color:#0000ff;
+    color: #000000;
 }
