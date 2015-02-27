@@ -6,6 +6,7 @@ body {
     
 }
 .intro {
+    position: absolute;
     font-size: 180px;
     width:40px;
     height:500px;
@@ -16,9 +17,9 @@ body {
 #blackpaper {
     position: absolute;
     top: 690px;
-    font-size: 380px;
-    width:1280px;
-    height:720px;
+    font-size: 330px;
+    width:1380px;
+    height:690px;
     margin:0px;
     padding:0px;
     float:right;
@@ -27,22 +28,22 @@ body {
 }
 #blackplastic {
     position: absolute;
-    top: 1280px;
-    font-size: 380px;
-    width:1280px;
-    height:720px;
+    top: 1380px;
+    font-size: 330px;
+    width:1380px;
+    height:690px;
     margin:0px;
     padding:0px;
     float:right;
     background-color:#00ff00;
     color: #000000;
 }
-#blackplastic {
+#blackother {
     position: absolute;
-    top: 1280px;
-    font-size: 380px;
-    width:1280px;
-    height:720px;
+    top: 2070px;
+    font-size: 330px;
+    width:1380px;;
+    height:690px;
     margin:0px;
     padding:0px;
     float:right;
@@ -57,26 +58,27 @@ h2 {
 }
 
 .plastic {
-    width:90px;
-    height:50px;
-    margin:20px;
-    padding:40px;
+    width:280px;
+    height:150px;
+    margin:60px;
+    padding:10px;
     float:right;
     background-color:#00ff00;
 }
 
 .paper {
-    width:40px;
+    top:20px;
+    width:100px;
     height:550px;
-    margin:20px;
-    padding:40px;
+    margin:30px;
+    padding:10px;
     float:right;
     background-color: #ffff00;
 }
 
 .other {
     width:40px;
-    height:550px;
+    height:50px;
     margin:20px;
     padding:40px;
     float:right;
