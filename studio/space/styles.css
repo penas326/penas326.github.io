@@ -5,6 +5,12 @@ body {
     color: #ffffff;
     
 }
+
+.wrapper {
+    width: 100%;
+    min-width: 1150px;
+}
+
 .intro {
     position: absolute;
     font-size: 180px;
@@ -17,11 +23,11 @@ body {
 
 h2 {
 	color: #00000;
-	font-size: 40px;
+	font-size: 45px;
 }
 
 .plastic {
-    width:380px;
+    width:360px;
     height:150px;
     margin:60px;
     float:right;
@@ -76,16 +82,18 @@ a:hover, a:visited, a:link, a:active{
 }
 #plasticthumbs {
     position: absolute;
-    top: 1380px;
+    top: 1350px;
+    width:1070;
     padding: 40px;
     margin:60px;
     background-color: #00ff00;
+    text-align: center;
 }
 #blackpaper {
     position: absolute;
     top: 2070px;
     font-size: 330px;
-    width:1380px;
+    width:1330px;
     height:690px;
     margin:0px;
     padding:0px;
@@ -99,15 +107,17 @@ a:hover, a:visited, a:link, a:active{
     width:1380px;
     height:690px;
     float:right;
-    background-color:#00000
+    background-color:#000000;
     
 }
 #paperthumbs {
     position: absolute;
-    top: 2760px;
+    width:1070;
+    top: 2750px;
     padding: 40px;
     margin:60px;
     background-color: #ffff00;
+    text-align: center;
 }
 #blackother {
     position: absolute;
@@ -131,8 +141,10 @@ a:hover, a:visited, a:link, a:active{
 }
 #otherthumbs {
     position: absolute;
-    top: 4140px;
+    top: 4120px;
+    width:1070px;
     padding: 40px;
     margin:60px;
     background-color: #0000ff;
+    text-align: center;
 }
