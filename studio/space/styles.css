@@ -13,9 +13,21 @@ body {
     padding:40px;
     float:left;
 }
-#sample {
+#blackpaper {
     position: absolute;
     top: 690px;
+    font-size: 380px;
+    width:1280px;
+    height:720px;
+    margin:0px;
+    padding:0px;
+    float:right;
+    background-color:#ffff00;
+    color: #000000;
+}
+#blackplastic {
+    position: absolute;
+    top: 1280px;
     font-size: 380px;
     width:1280px;
     height:720px;
@@ -25,6 +37,19 @@ body {
     background-color:#00ff00;
     color: #000000;
 }
+#blackplastic {
+    position: absolute;
+    top: 1280px;
+    font-size: 380px;
+    width:1280px;
+    height:720px;
+    margin:0px;
+    padding:0px;
+    float:right;
+    background-color:#0000ff;
+    color: #000000;
+}
+
 
 h2 {
 	color: #00000;
