@@ -51,18 +51,7 @@ h2 {
 a:hover, a:visited, a:link, a:active{
     text-decoration:none;
 }
-#blackpaper {
-    position: absolute;
-    top: 1380px;
-    font-size: 330px;
-    width:1380px;
-    height:690px;
-    margin:0px;
-    padding:0px;
-    float:right;
-    background-color:#ffff00;
-    color: #000000;
-}
+
 #blackplastic {
     position: absolute;
     top: 690px;
@@ -75,21 +64,39 @@ a:hover, a:visited, a:link, a:active{
     background-color:#00ff00;
     color: #000000;
 }
-#blackother {
+
+
+#plasticgallery {
     position: absolute;
-    top: 2760px;
+    top: 1380px;
     font-size: 330px;
-    width:1380px;;
+    width:1380px;
+    height:690px;
+    float:right;
+    background-color:#00000
+}
+#plasticthumbs {
+    position: absolute;
+    top: 1380px;
+    padding: 40px;
+    margin:60px;
+    background-color: #ffff00;
+}
+#blackpaper {
+    position: absolute;
+    top: 2070px;
+    font-size: 330px;
+    width:1380px;
     height:690px;
     margin:0px;
     padding:0px;
     float:right;
-    background-color:#0000ff;
+    background-color:#ffff00;
     color: #000000;
 }
 #papergallery {
     position: absolute;
-    top: 2070px;
+    top: 2760px;
     font-size: 330px;
     width:1380px;
     height:690px;
@@ -98,8 +105,20 @@ a:hover, a:visited, a:link, a:active{
 }
 #paperthumbs {
     position: absolute;
-    top: 2070px;
+    top: 2760px;
     padding: 40px;
     margin:60px;
     background-color: #ffff00;
+}
+#blackother {
+    position: absolute;
+    top: 3450px;
+    font-size: 330px;
+    width:1380px;;
+    height:690px;
+    margin:0px;
+    padding:0px;
+    float:right;
+    background-color:#0000ff;
+    color: #000000;
 }
