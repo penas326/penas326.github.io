@@ -73,7 +73,6 @@ a:hover, a:visited, a:link, a:active{
     height:690px;
     float:right;
     background-color:#00000;
-    text-align: justify;
 }
 #plasticthumbs {
     position: absolute;
@@ -101,6 +100,7 @@ a:hover, a:visited, a:link, a:active{
     height:690px;
     float:right;
     background-color:#00000
+    
 }
 #paperthumbs {
     position: absolute;
