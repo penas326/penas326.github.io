@@ -15,11 +15,11 @@ body {
 }
 #sample {
     position: absolute;
-    top: 1000px;
+    top: 690px;
     font-size: 380px;
     width:1280px;
     height:720px;
-    margin:20px;
+    margin:0px;
     padding:0px;
     float:right;
     background-color:#00ff00;
