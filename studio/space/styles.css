@@ -69,7 +69,6 @@ a:hover, a:visited, a:link, a:active{
 #plasticgallery {
     position: absolute;
     top: 1380px;
-    font-size: 330px;
     width:1380px;
     height:690px;
     float:right;
@@ -97,7 +96,6 @@ a:hover, a:visited, a:link, a:active{
 #papergallery {
     position: absolute;
     top: 2760px;
-    font-size: 330px;
     width:1380px;
     height:690px;
     float:right;
@@ -125,14 +123,11 @@ a:hover, a:visited, a:link, a:active{
 #othergallery {
     position: absolute;
     top: 4140px;
-    font-size: 330px;
     width:1380px;;
     height:690px;
-    margin:0px;
-    padding:0px;
+
     float:right;
-    background-color:#0000ff;
-    color: #000000;
+    background-color:#000000;
 }
 #otherthumbs {
     position: absolute;
