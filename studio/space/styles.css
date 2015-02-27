@@ -80,7 +80,7 @@ a:hover, a:visited, a:link, a:active{
     top: 1380px;
     padding: 40px;
     margin:60px;
-    background-color: #ffff00;
+    background-color: #00ff00;
 }
 #blackpaper {
     position: absolute;
@@ -121,4 +121,23 @@ a:hover, a:visited, a:link, a:active{
     float:right;
     background-color:#0000ff;
     color: #000000;
+}
+#othergallery {
+    position: absolute;
+    top: 4140px;
+    font-size: 330px;
+    width:1380px;;
+    height:690px;
+    margin:0px;
+    padding:0px;
+    float:right;
+    background-color:#0000ff;
+    color: #000000;
+}
+#otherthumbs {
+    position: absolute;
+    top: 4140px;
+    padding: 40px;
+    margin:60px;
+    background-color: #0000ff;
 }
