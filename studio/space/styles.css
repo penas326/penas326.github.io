@@ -94,7 +94,7 @@ a:hover, a:visited, a:link, a:active{
     top: 3450;
     font-size: 330px;
     width: 1380px;
-    height: 1380px;
+    height:2760px;
     background-color: #ffff00;
     color: #000000;
     padding-left: 30px;
@@ -103,7 +103,7 @@ a:hover, a:visited, a:link, a:active{
 
 .paperthumbs {
     position: absolute;
-    top:2090px;
+    top:3450px;
     width:2070;
     margin:60px;
     text-align: center;
@@ -114,7 +114,7 @@ a:hover, a:visited, a:link, a:active{
     top: 3450px;
     font-size: 330px;
     width:1380px;;
-    height:1380px;
+    height:2760px;
     background-color:#0000ff;
     color: #000000;
     padding-left: 30px;
