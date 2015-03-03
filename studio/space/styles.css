@@ -61,9 +61,10 @@ a:hover, a:visited, a:link, a:active{
 }
 
 #blackplastic {
+    position:absolute;
     top: 690px;
-    padding-left: 20px;
-    padding-top: 50px;
+    padding-left: 30px;
+    padding-top: 60px;
     font-size: 330px;
     width:1380px;
     height:1380px;
@@ -73,10 +74,11 @@ a:hover, a:visited, a:link, a:active{
 }
 
 .plasticthumbs {
-    position: absolute;
-    top: 1190px;
+    position: relative;
+    top: 350;
+    padding-left: 650;
     text-align: center;
-    color:black;
+    color: #000000;
 
 }
 #blackpaper {
