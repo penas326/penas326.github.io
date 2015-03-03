@@ -74,12 +74,11 @@ a:hover, a:visited, a:link, a:active{
 }
 
 .plasticthumbs {
-    position: relative;
-    top: 350;
-    padding-left: 650;
+    position: absolute;
+    top: 1000;
+    padding-left: 700;
     text-align: center;
     color: #000000;
-    
 }
 
 .plasticthumbs2 {
