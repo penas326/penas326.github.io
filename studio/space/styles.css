@@ -52,15 +52,17 @@ h4 {
 }
 
 .paper {
-    position:absolute;
-    top:20px;
-    width:700px;
-    height:550px;
-    margin:30px;
-    padding:10px;
-    float:right;
+    position: absolute;
+    top: 00;
+    width: 400px;
+    height: 550px;
+    margin-left: 700;
+    padding: 10;
+    float: right;
     background-color: #ffff00;
-    font-size:100;
+    font-size: 100;
+    z-index: -1;
+    padding-left: 2;
 }
 
 .other {
