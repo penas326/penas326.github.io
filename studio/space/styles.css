@@ -52,6 +52,7 @@ h4 {
 }
 
 .paper {
+    position:absolute;
     top:20px;
     width:700px;
     height:550px;
