@@ -86,6 +86,7 @@ a:hover, a:visited, a:link, a:active{
     top: 1400;
     padding-right: 10;
     color: #000000;
+    margin-left:30px;
 }
 
 #blackpaper {
@@ -99,7 +100,15 @@ a:hover, a:visited, a:link, a:active{
     padding-left: 30px;
     padding-top: 60px;
 }
-
+.paperthumbs2 {
+    position: absolute;
+    top:3450px;
+    width:2070;
+    margin:60px;
+    text-align: center;
+    padding-left: 600;
+    color:black;
+}
 .paperthumbs {
     position: absolute;
     top:3450px;
