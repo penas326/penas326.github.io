@@ -29,11 +29,13 @@ h2 {
 }
 
 .plastic {
-    width:400px;
-    height:150px;
-    margin:60px;
-    float:right;
-    background-color:#00ff00;
+    width: 400px;
+    height: 150px;
+    margin: 60px;
+    float: right;
+    background-color: #00ff00;
+    position: absolute;
+    margin-left: 900;
 }
 
 .paper {
@@ -47,12 +49,12 @@ h2 {
 }
 
 .other {
-    top: 80px;
-    width:80px;
-    height:100px;
-    margin:20px;
-    padding:40px;
-    float:right;
+    position: absolute;
+    top: 300px;
+    width: 200;
+    height: 200px;
+    padding: 40px;
+    margin-left: 900;
     background-color: #0000ff;
 }
 
