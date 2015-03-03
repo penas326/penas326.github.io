@@ -111,7 +111,7 @@ a:hover, a:visited, a:link, a:active{
 }
 #blackother {
     position: absolute;
-    top: 3450px;
+    top: 6210px;
     font-size: 330px;
     width:1380px;;
     height:2760px;
@@ -120,15 +120,10 @@ a:hover, a:visited, a:link, a:active{
     padding-left: 30px;
     padding-top: 60px;
 }
-#othergallery {
-    position: absolute;
-    top: 4140px;
-    width:1380px;;
-    float:right;
-}
+
 .otherthumbs {
     position: absolute;
-    top: 3650px;
+    top: 6210px;
     width:1070px;
     padding: 40px;
     margin:60px;
