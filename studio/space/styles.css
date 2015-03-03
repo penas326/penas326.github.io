@@ -70,14 +70,6 @@ a:hover, a:visited, a:link, a:active{
     line-height: 300px;
 }
 
-
-#plasticgallery {
-    position: absolute;
-    top: 1190px;
-    width:1380px;
-    height:690px;
-
-}
 .plasticthumbs {
     position: absolute;
     top: 1190px;
