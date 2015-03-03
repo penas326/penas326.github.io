@@ -29,7 +29,7 @@ h2 {
 }
 
 .plastic {
-    width:360px;
+    width:400px;
     height:150px;
     margin:60px;
     float:right;
@@ -48,6 +48,7 @@ h2 {
 }
 
 .other {
+    top: 80px;
     width:80px;
     height:100px;
     margin:20px;
