@@ -24,9 +24,8 @@ body {
 }
 
 h2 {
-    color: #00000;
-    font-size: 45px;
-    padding-top: 400px;
+    font-size: 90;
+    padding-top: 370px;
     padding-left: 30px;
 }
 
@@ -37,26 +36,27 @@ h3 {
 
 h4 {
     color: #00000;
-    font-size: 55px;
+    font-size: 66px;
 }
 
 .plastic {
     width: 800px;
-    height: 150px;
-    margin-top: 60px;
-    float: right;
+    height: 150;
+    margin-top: 34;
     background-color: #00ff00;
     position: absolute;
     margin-left: 300;
     padding-left: 50;
+    padding-bottom: 60;
+    z-index: -1;
 }
 
 .paper {
     position: absolute;
     top: 00;
-    width: 400px;
+    width: 500;
     height: 550px;
-    margin-left: 700;
+    margin-left: 500;
     padding: 10;
     float: right;
     background-color: #ffff00;
