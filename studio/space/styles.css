@@ -86,15 +86,16 @@ a:hover, a:visited, a:link, a:active{
     position: absolute;
     top: 1350;
     padding-right: 10;
+    color: #000000;
 }
 
 #blackpaper {
     position: absolute;
-    top: 2080px;
+    top: 3450;
     font-size: 330px;
-    width:1380px;
-    height:1380px;
-    background-color:#ffff00;
+    width: 1380px;
+    height: 1380px;
+    background-color: #ffff00;
     color: #000000;
     padding-left: 30px;
     padding-top: 60px;
