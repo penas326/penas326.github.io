@@ -1,0 +1,132 @@
+body {
+    background: #000;
+    margin: 0;
+    font-family: Din Condensed, Helvetica, sans-serif;
+    color: #ffffff;
+    
+}
+
+.wrapper {
+    width: 100%;
+    min-width: 1150px;
+}
+
+.intro {
+    position: absolute;
+    font-size: 180px;
+    width:40px;
+    height:500px;
+    margin:0px;
+    padding:40px;
+    float:left;
+    line-height:170px;
+}
+
+h2 {
+	color: #00000;
+	font-size: 45px;
+}
+
+.plastic {
+    width:360px;
+    height:150px;
+    margin:60px;
+    float:right;
+    background-color:#00ff00;
+    transform: rotate(30deg);
+}
+
+.paper {
+    top:20px;
+    width:260px;
+    height:550px;
+    margin:30px;
+    padding:10px;
+    float:right;
+    background-color: #ffff00;
+}
+
+.other {
+    width:80px;
+    height:100px;
+    margin:20px;
+    padding:40px;
+    float:right;
+    background-color: #0000ff;
+}
+
+a:hover, a:visited, a:link, a:active{
+    text-decoration:none;
+}
+
+#blackplastic {
+    position: absolute;
+    top: 690px;
+    font-size: 330px;
+    width:1380px;
+    height:1380px;
+    margin:0px;
+    padding:0px;
+    float:right;
+    background-color:#00ff00;
+    color: #000000;
+    line-height: 300px;
+}
+
+
+#plasticgallery {
+    position: absolute;
+    top: 10px;
+    width:1380px;
+    height:690px;
+
+}
+.plasticthumbs {
+    position: absolute;
+    top: 1190px;
+    text-align: center;
+    color:black;
+
+}
+#blackpaper {
+    position: absolute;
+    top: 2080px;
+    font-size: 330px;
+    width:1380px;
+    height:1380px;
+    background-color:#ffff00;
+    color: #000000;
+}
+
+.paperthumbs {
+    position: absolute;
+    top:2090px;
+    width:2070;
+    margin:60px;
+    text-align: center;
+    color:black;
+}
+#blackother {
+    position: absolute;
+    top: 3450px;
+    font-size: 330px;
+    width:1380px;;
+    height:1380px;
+    background-color:#0000ff;
+    color: #000000;
+}
+#othergallery {
+    position: absolute;
+    top: 4140px;
+    width:1380px;;
+    float:right;
+}
+.otherthumbs {
+    position: absolute;
+    top: 3650px;
+    width:1070px;
+    padding: 40px;
+    margin:60px;
+    text-align: center;
+    color:black;
+}
