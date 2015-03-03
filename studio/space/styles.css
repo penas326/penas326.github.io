@@ -39,13 +39,13 @@ h4 {
 }
 
 .plastic {
-    width: 400px;
+    width: 800px;
     height: 150px;
     margin: 60px;
     float: right;
     background-color: #00ff00;
     position: absolute;
-    margin-left: 500;
+    margin-left: 300;
 }
 
 .paper {
