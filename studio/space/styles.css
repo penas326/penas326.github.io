@@ -15,7 +15,7 @@ body {
     position: absolute;
     font-size: 180px;
     width:40px;
-    height:690px;
+    height:200px;
     margin:40px;
     padding-top:20px;
     padding-left:10px;
@@ -24,8 +24,8 @@ body {
 }
 
 h2 {
-	color: #00000;
-	font-size: 45px;
+    color: #00000;
+    font-size: 45px;
 }
 
 .plastic {
