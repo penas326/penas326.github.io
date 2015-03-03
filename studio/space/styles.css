@@ -106,8 +106,8 @@ a:hover, a:visited, a:link, a:active{
     width:2070;
     margin:60px;
     text-align: center;
-    padding-left: 600;
-    color:black;
+    padding-left: 10;
+
 }
 .paperthumbs {
     position: absolute;
