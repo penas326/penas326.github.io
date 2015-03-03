@@ -82,7 +82,7 @@ a:hover, a:visited, a:link, a:active{
 
 }
 .plasticthumbs {
-    position: fixed;
+    position: static;
     top: 1190px;
     text-align: center;
     color:black;
