@@ -61,13 +61,12 @@ a:hover, a:visited, a:link, a:active{
 
 #blackplastic {
     position: absolute;
-    top: 70px;
+    top: 730px;
     font-size: 330px;
     width:1380px;
     height:1380px;
     margin:0px;
-    padding:0px;
-    float:right;
+    padding:10px;
     background-color:#00ff00;
     color: #000000;
     line-height: 300px;
