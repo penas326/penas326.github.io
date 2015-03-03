@@ -79,6 +79,15 @@ a:hover, a:visited, a:link, a:active{
     padding-left: 650;
     text-align: center;
     color: #000000;
+    
+}
+
+.plasticthumbs2 {
+    position: relative;
+    top: 350;
+    padding-left: 650;
+    text-align: left;
+    color: #000000;
 
 }
 #blackpaper {
