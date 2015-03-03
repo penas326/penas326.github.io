@@ -75,14 +75,14 @@ a:hover, a:visited, a:link, a:active{
 
 
 #plasticgallery {
-    position: static;
+    position: absolute;
     top: 10px;
     width:1380px;
     height:690px;
 
 }
 .plasticthumbs {
-    position: static;
+    position: absolute;
     top: 1190px;
     text-align: center;
     color:black;
