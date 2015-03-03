@@ -65,8 +65,6 @@ a:hover, a:visited, a:link, a:active{
     font-size: 330px;
     width:1380px;
     height:1380px;
-    margin:10px;
-    padding:10px;
     background-color:#00ff00;
     color: #000000;
     line-height: 300px;
@@ -75,7 +73,7 @@ a:hover, a:visited, a:link, a:active{
 
 #plasticgallery {
     position: absolute;
-    top: 11px;
+    top: 1190px;
     width:1380px;
     height:690px;
 
