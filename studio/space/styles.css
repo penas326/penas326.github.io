@@ -68,7 +68,7 @@ a:hover, a:visited, a:link, a:active{
     padding-left: 30px;
     padding-top: 60px;
     font-size: 330px;
-    width:1380px;
+    width:auto;
     height:2760px;
     background-color:#00ff00;
     color: #000000;
@@ -95,7 +95,7 @@ a:hover, a:visited, a:link, a:active{
     position: absolute;
     top: 3450;
     font-size: 330px;
-    width: 1380px;
+    width: auto;
     height:2760px;
     background-color: #ffff00;
     color: #000000;
@@ -122,7 +122,7 @@ a:hover, a:visited, a:link, a:active{
     position: absolute;
     top: 6210px;
     font-size: 330px;
-    width:1380px;;
+    width:auto;;
     height:2760px;
     background-color:#0000ff;
     color: #000000;
