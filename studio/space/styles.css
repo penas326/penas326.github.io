@@ -75,7 +75,7 @@ a:hover, a:visited, a:link, a:active{
 
 
 #plasticgallery {
-    position: absolute;
+    position: static;
     top: 10px;
     width:1380px;
     height:690px;
