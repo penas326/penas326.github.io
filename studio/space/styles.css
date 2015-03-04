@@ -167,3 +167,10 @@ a:hover, a:visited, a:link, a:active{
     text-align: center;
     color:black;
 }
+
+.updownArrow {
+    position: fixed;
+    left:10px;
+    right: 10px;
+    
+}
