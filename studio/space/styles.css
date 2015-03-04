@@ -24,15 +24,14 @@ body {
 }
 
 h2 {
-    font-size: 90px;
-    padding-top: 260;
-    padding-left: 200;
-
+    font-size: 130px;
+    padding-top: 180px;
+    padding-left: 200px;
 }
 
 h3 {
     color: #00000;
-    font-size: 105px;
+    font-size: 90px;
 }
 
 h4 {
@@ -56,24 +55,23 @@ h4 {
 
 .paper {
     position: absolute;
-    top: 00;
-    width: 500;
+    width: 500px;
     height: 670px;
-    margin-left: 680;
+    margin-left: 680px;
     padding: 10;
     float: right;
     background-color: #ffff00;
-    font-size: 100;
-    padding-left: ;
+    font-size: 100px;
+    padding-left: 2;
 }
 
 .other {
     position: absolute;
-    top: 390;
-    width: 250;
+    top: 370;
+    width: 390;
     height: 180;
     padding: 40px;
-    margin-left: 500;
+    margin-left: 400;
     background-color: #0000ff;
 }
 
