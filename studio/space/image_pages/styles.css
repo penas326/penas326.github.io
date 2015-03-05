@@ -9,3 +9,9 @@ body{
   text-align: center;
   position: absolute;
 }
+
+close {
+    font-family: Din Condensed, Helvetica, sans-serif;
+    color: #ffffff;
+    font-size: 80px;
+}
