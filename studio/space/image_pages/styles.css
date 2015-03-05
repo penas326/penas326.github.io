@@ -18,11 +18,11 @@ body{
 }
 
 a:link {
-    color: #ffffff;
+    color: white;
 }
 
 /* visited link */
 a:visited {
-    color: #ffffff;
+    color: white;
 }
 
