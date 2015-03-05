@@ -122,8 +122,8 @@ a:hover, a:visited, a:link, a:active{
 .paperthumbs2 {
     position: absolute;
     top:3450px;
-    width:2070;
-    margin:60px;
+    width: 1900px;
+    margin:40px;
     text-align: center;
     color:#000000;
 
@@ -132,7 +132,7 @@ a:hover, a:visited, a:link, a:active{
     position: absolute;
     top: 3870;
     width: 2070;
-    color: black;
+    color: #000000;
     text-align: left;
 }
 #blackother {
