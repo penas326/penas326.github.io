@@ -8,7 +8,7 @@ body {
 
 .intro {
   color: #000000;
-  font-size: 600px;
+  font-size: 100px;
   position: absolute;
   padding-top: 300px;
   padding-left: 190px;
@@ -18,10 +18,10 @@ body {
 
 #circle {
   position: absolute;
-  margin-top: 180;
+  margin-top: 20;
   margin-left: 650;
-  width: 400;
-  height: 400;
+  width: 20;
+  height: 20;
   background: black;
   opacity: 0.5;
   -moz-border-radius: 50px;
