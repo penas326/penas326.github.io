@@ -164,6 +164,16 @@ a:hover {
     color:black;
 }
 
+.otherthumbs2 {
+    position: absolute;
+    top: 6210px;
+    width:1070px;
+    padding: 40px;
+    margin:60px;
+    text-align: center;
+    color:black;
+}
+
 .controlArrow {
     position: absolute;
     top:10px;
