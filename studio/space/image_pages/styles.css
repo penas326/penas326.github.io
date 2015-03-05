@@ -26,9 +26,6 @@ a:visited {
     color: white;
 }
 
-div {
-    text-decoration:none;
-}
 /* mouse over link */
 a:hover {
     color: black;
