@@ -18,13 +18,17 @@ body {
 
 #circle {
   position: absolute;
-  margin-top: 20;
-  margin-left: 650;
-  width: 20;
-  height: 20;
+  margin-top: 80;
+  margin-left: 1100;
+  width: 30;
+  height: 30;
   background: black;
   opacity: 0.5;
   -moz-border-radius: 50px;
   -webkit-border-radius: 50px;
   border-radius: 300px;
+}
+
+a:hover, a:visited, a:link, a:active{
+    text-decoration:none;
 }
