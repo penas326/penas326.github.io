@@ -4,6 +4,13 @@
     font-family: Bembo, Georgia, serif;
     background-color:#ffffff;
     position:absolute;
+    width:40px;
+    height:690px;
+    margin:40px;
+    padding-top:20px;
+    padding-left:10px;
+    float:left;
+    line-height:170px;;
 }
 
 .circle {
