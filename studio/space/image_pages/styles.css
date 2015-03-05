@@ -3,7 +3,7 @@ body {
     margin: 0;
     
 }
-#image {
+.pic {
     position: absolute;
     text-align: center;
     color: #000000;
