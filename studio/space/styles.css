@@ -75,8 +75,13 @@ h4 {
     background-color: #0000ff;
 }
 
-a:hover, a:visited, a:link, a:active{
-    text-decoration:none;
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: black;
 }
 
 #blackplastic {
