@@ -157,20 +157,18 @@ a:hover {
 .otherthumbs {
     position: absolute;
     top: 6210px;
-    width:1070px;
-    padding: 40px;
-    margin:60px;
-    color:black;
+    width: 2070;
+    color: #000000;
+    text-align: left;
 }
 
 .otherthumbs2 {
     position: absolute;
     top: 6210px;
-    width:1070px;
-    padding: 40px;
-    margin:60px;
+    width:1900px;
+    margin:40px;
     text-align: center;
-    color:black;
+    color:#000000;
 }
 
 .controlArrow {
