@@ -83,7 +83,9 @@ a:link {
 a:visited {
     color: black;
 }
-
+a:hover {
+    color: white;
+}
 #blackplastic {
     position:absolute;
     top: 690px;
