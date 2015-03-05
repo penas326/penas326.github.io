@@ -3,12 +3,12 @@ body{
     background-color:#000000;
 }
 .pic {
-  padding-top: 100px;
+  padding-bottom: 60px;
   padding-left: 400px;
   position: absolute;
   text-align: center;
   position: absolute;
-  z-index:-1;
+  z-index: -1;
 }
 
 .close {
@@ -16,6 +16,7 @@ body{
     color: #ffffff;
     font-size: 40px;
 }
+
 a:hover, a:visited, a:link, a:active{
     text-decoration:none;
 }
