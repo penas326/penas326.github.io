@@ -14,5 +14,8 @@ body{
 .close {
     font-family: Din Condensed, Helvetica, sans-serif;
     color: #ffffff;
-    font-size: 80px;
+    font-size: 40px;
+}
+a:hover, a:visited, a:link, a:active{
+    text-decoration:none;
 }
