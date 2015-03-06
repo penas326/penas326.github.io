@@ -185,6 +185,7 @@ a:hover {
     margin:40px;
     text-align: center;
     color:#000000;
+    z-index:-1;
 }
 
 .bottom {
