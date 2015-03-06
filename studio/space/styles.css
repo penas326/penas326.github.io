@@ -182,11 +182,9 @@ a:hover {
     position:absolute;
     top:8410px;
     background-color:#000000;
-    color:#ffffff;
-    font-size:40px;
     width:100%;
-    height:760px;
-    z-index:;
+    height:160px;
+    z-index:-1;
 }
 
 .controlArrow {
