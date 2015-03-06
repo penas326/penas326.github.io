@@ -197,6 +197,16 @@ a:hover {
     z-index:-1;
 }
 
+.bsqaure {
+    position:absolute;
+    top:8710px;
+    background-color:yellow;
+    width:100px;
+    height:70px;
+    z-index:-1;
+    
+}
+
 .controlArrow {
     position: absolute;
     top:10px;
