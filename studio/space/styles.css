@@ -156,6 +156,7 @@ a:hover {
 
 .otherthumbs {
     position: absolute;
+    padding-top: 430px;
     top: 6210px;
     width: 2070;
     color: #000000;
