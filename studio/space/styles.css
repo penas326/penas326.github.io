@@ -169,6 +169,7 @@ a:hover {
   padding-top: 60px;
 }
 
+
 .otherthumbs {
     position: absolute;
     padding-top: 570px;
@@ -176,15 +177,6 @@ a:hover {
     width: 2070;
     color: #000000;
     text-align: left;
-}
-
-.otherthumbs2 {
-    position: absolute;
-    top: 6410px;
-    width:1900px;
-    margin:40px;
-    text-align: center;
-    color:#000000;
 }
 
 .bottom {
