@@ -172,6 +172,14 @@ a:hover {
     color:#000000;
 }
 
+.bottom {
+    position:absolute;
+    top:8410px;
+    background-color:#000000;
+    color:#ffffff;
+    font-size:40px;
+}
+
 .controlArrow {
     position: absolute;
     top:10px;
