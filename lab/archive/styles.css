@@ -1,12 +1,10 @@
 body {
     background: #ffffff;
     margin: 0;
-    font-family: Bembo, Georgia, serif;
-    color: #ffffff;
-    
 }
 
-.intro a:hover,a:visited:hover        {
+.intro a:hover,a:visited:hover {
+  font-family: Bembo, Georgia, serif;
   color: #cc7839;
   text-decoration:none;
   -webkit-transition:color 0.5s ease-in; 
