@@ -6,7 +6,9 @@ body {
     
 }
 
-.intro {
+.intro a:link:hover,a:hover,a:visited:hover        {
+  color: #cc7839;
+  text-decoration:none;
   color: #000000;
   font-size: 600px;
   position: absolute;
@@ -28,3 +30,4 @@ body {
   -webkit-border-radius: 50px;
   border-radius: 300px;
 }
+

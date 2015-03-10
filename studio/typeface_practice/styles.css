@@ -18,6 +18,8 @@
     width: 300px;
     height: 400px;
     position: relative;
+    transform: rotate(10deg);
+    transform-origin: top left;
 }
 
 .bar {
