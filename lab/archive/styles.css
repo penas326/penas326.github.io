@@ -38,5 +38,9 @@ body {
 }
 
 a:visited {
-    color: bla;
+    color: black;
+}
+
+a:active {
+    text-decoration: none;
 }
