@@ -34,7 +34,7 @@ a:active {
     text-decoration:none;
 }
 
-.circle {
+#circle {
   position: absolute;
   margin-top: 220;
   margin-left: 450;
