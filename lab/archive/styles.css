@@ -1,12 +1,13 @@
 body {
     background: #ffffff;
     margin: 0;
+    font-family: Bembo, Georgia, serif;
+    color: #ffffff;
+    
 }
 
-.intro a:hover,a:visited:hover {
-  font-family: Bembo, Georgia, serif;
-  color: #cc7839;
-  text-decoration:none;
+.intro {
+  color: #000000;
   font-size: 600px;
   position: absolute;
   padding-top: 300px;
@@ -27,4 +28,3 @@ body {
   -webkit-border-radius: 50px;
   border-radius: 300px;
 }
-
