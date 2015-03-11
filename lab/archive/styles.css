@@ -35,15 +35,11 @@ a:hover {
 }
 
 .square {
-  width: 5;
+  padding-top: 85;
+  font-size: 430;
   margin-left: 480;
-  height: 130;
-  margin-top: 198;
-  background-color: #000000;
+  float: left;
   position: absolute;
-  padding-left: 50;
-  padding-bottom: 80;
-  padding-right: 160;
 }
 
 .both {
