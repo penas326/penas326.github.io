@@ -17,8 +17,8 @@ body {
 }
 
 .ahover a:hover{
-color: blue;
-  
+  color: blue;
+  text-decoration:none;
 }
 
 #circle {
