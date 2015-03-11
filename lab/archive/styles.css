@@ -7,8 +7,6 @@ body {
   font-family: Bembo, Georgia, serif;
   color: #cc7839;
   text-decoration:none;
-  -webkit-transition:color 0.5s ease-in; 
-  -moz-transition:color 0.5s ease-in;
   font-size: 600px;
   position: absolute;
   padding-top: 300px;
