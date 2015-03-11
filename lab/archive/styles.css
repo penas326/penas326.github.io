@@ -20,13 +20,6 @@
   
 }
 
-a:hover {
-  color:  #b0afaf;
-  -webkit-transition:color 0.5s ease-in; 
-  -moz-transition:color 0.5s ease-in;
-
-}
-
 a:link {
     color: black;
 }
@@ -34,6 +27,13 @@ a:link {
 /* visited link */
 a:visited {
     color: black;
+}
+
+a:hover {
+  color:  #b0afaf;
+  -webkit-transition:color 0.5s ease-in; 
+  -moz-transition:color 0.5s ease-in;
+
 }
 
 .circle {
