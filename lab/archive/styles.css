@@ -16,7 +16,7 @@ body {
   
 }
 
-.ahover a:hover{
+.ahover a:link:hover,a:hover,a:visited:hover{
   color: blue;
   text-decoration:none;
 }
