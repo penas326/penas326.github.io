@@ -53,7 +53,7 @@ a:-webkit-any-link {
   font-size: 300;
   position: absolute;
   padding-top: 250px;
-  padding-left: 750px;
+  padding-left: 900px;
   float: left;
   line-height: 170px;
   
@@ -61,10 +61,12 @@ a:-webkit-any-link {
 #circle2 {
   position: absolute;
   margin-top: 220;
-  margin-left: 750;
+  margin-left: 900;
   width: 230;
   height: 230;
   opacity: 0.5;
   -moz-border-radius: 50px;
   -webkit-border-radius: 50px;
   border-radius: 300px;
+  
+}
