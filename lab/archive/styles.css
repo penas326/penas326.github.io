@@ -24,7 +24,7 @@ body {
 
 }
 
-.circle {
+#circle {
   position: absolute;
   margin-top: 180;
   margin-left: 650;
