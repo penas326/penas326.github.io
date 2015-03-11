@@ -20,7 +20,7 @@
   
 }
 
-.graylink   a:link:hover,a:hover,a:visited:hover        {
+a:link:hover,a:hover,a:visited:hover  {
   color:  #b0afaf;
   text-decoration: none;
   -webkit-transition:color 0.5s ease-in; 
@@ -39,7 +39,6 @@
   -webkit-border-radius: 50px;
   border-radius: 300px;
 }
-
 
 .both {
   color: #000000;
