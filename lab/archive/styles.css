@@ -2,18 +2,19 @@ body {
     background: #ffffff;
     margin: 0;
     font-family: Bembo, Georgia, serif;
-    color: #ffffff;
+    color: #000000;
     
 }
 
-.intro {
-  color: #000000;
+.intro a:hover {
+  color: blue;
   font-size: 600px;
   position: absolute;
   padding-top: 300px;
   padding-left: 190px;
   float: left;
   line-height: 170px;
+  
 }
 
 #circle {
