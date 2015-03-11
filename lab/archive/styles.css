@@ -32,10 +32,10 @@ a:visited {
 }
 
 a:hover {
+  text-decoration: none;
   color:  #b0afaf;
   -webkit-transition:color 0.5s ease-in; 
   -moz-transition:color 0.5s ease-in;
-  text-decoration: none;
 
 }
 
