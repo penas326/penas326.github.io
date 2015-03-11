@@ -28,7 +28,7 @@
 
 }
 
-#circle {
+.circle {
   position: absolute;
   margin-top: 220;
   margin-left: 450;
@@ -63,7 +63,7 @@ a:-webkit-any-link {
   line-height: 170px;
   
 }
-#circle2 {
+.circle2 {
   position: absolute;
   margin-top: 220;
   margin-left: 900;
