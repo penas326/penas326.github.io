@@ -24,10 +24,9 @@ body {
 .both {
   width: 40;
   height: 10;
-  font-size: 60;
+  font-size: 37;
   position: absolute;
   float: left;
-  line-height: 170px;
   background-color: #000000;
   color: #808080;
   margin-top: 250;
