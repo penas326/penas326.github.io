@@ -30,6 +30,7 @@ body {
   margin-left: 450;
   width: 230;
   height: 230;
+  background: black;
   opacity: 0.5;
   -moz-border-radius: 50px;
   -webkit-border-radius: 50px;
@@ -53,18 +54,8 @@ a:-webkit-any-link {
   font-size: 300;
   position: absolute;
   padding-top: 250px;
-  padding-left: 750px;
+  padding-left: 150px;
   float: left;
   line-height: 170px;
   
 }
-#circle2 {
-  position: absolute;
-  margin-top: 220;
-  margin-left: 750;
-  width: 230;
-  height: 230;
-  opacity: 0.5;
-  -moz-border-radius: 50px;
-  -webkit-border-radius: 50px;
-  border-radius: 300px;
