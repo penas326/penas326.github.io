@@ -20,12 +20,20 @@
   
 }
 
-a:link:hover,a:hover,a:visited:hover  {
+a:hover {
   color:  #b0afaf;
-  text-decoration: none;
   -webkit-transition:color 0.5s ease-in; 
   -moz-transition:color 0.5s ease-in;
 
+}
+
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: black;
 }
 
 .circle {
