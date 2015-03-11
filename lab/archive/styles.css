@@ -42,7 +42,7 @@ a:visited {
 }
 
 a:-webkit-any-link {
-  color: -webkit-link;
+  color: black;
   text-decoration: none;
   cursor: auto;
 }
