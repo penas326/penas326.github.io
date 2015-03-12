@@ -24,6 +24,7 @@
   line-height: 170px;
 }
 .images {
+    font-family: lato, helvetica, sans-serif;
   padding-left: 40;
   padding-top: 250;
   position: absolute;
