@@ -15,7 +15,7 @@ body {
 }
 
 .names {
-  line-height: 3;
+  font-size: 30px;
   position: absolute;
   padding-left: 40px;
   padding-top: 170px;
