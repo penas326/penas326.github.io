@@ -8,20 +8,20 @@ body {
   color: #000000;
   font-size: 37px;
   position: absolute;
-  padding-top: 10px;
-  padding-left: 40px;
+  padding-top: 45px;
+  position: absolute;
   float: left;
-  line-height: 170px;
   margin-left: 1090px;
 }
 
 .square {
-  padding-top:20px;
+  line-height: .5;
   font-size: 200px;
   margin-left: 10px;
   float: left;
   position: absolute;
 }
+
 .both {
   font-size: 37;
   position: absolute;
@@ -31,6 +31,10 @@ body {
   margin-top: 45;
   height: 16;
   margin-left: 1140;
+}
+
+.images {
+  
 }
 
 a:link {
