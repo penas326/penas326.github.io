@@ -17,10 +17,8 @@ body {
 .names {
   position: absolute;
   padding-left: 1004px;
-  color: white;
   padding-top: 2;
   margin-top: 200;
-  background: #000000;
   font-family: lato, helvetica, sans-serif;
 }
 
