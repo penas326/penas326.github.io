@@ -24,18 +24,12 @@
 }
 
 .text {
-  font-family: Bembo, Georgia, serif;
-  background-color: #000000;
-  color: #808080;
-  height: 45px;
-  width: 100;
-  font-size: 160px;
+  color: #000000;
   position: absolute;
-  padding-top: 10px;
-  padding-right: 40px;
-  padding-left: 40px;
+  padding-top: 100;
+  position: absolute;
   float: left;
-  line-height: 170px;
+  margin-left: 1000;
 }
 
 a:link {
