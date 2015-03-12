@@ -24,9 +24,12 @@
   line-height: 170px;
 }
 .images {
-    position:absolute;
-    font-family: lato, helvetica, sans-serif;
+  padding-left: 40;
+  padding-top: 250;
+  position: absolute;
+  font-family: lato, helvetica, sans-serif;
 }
+
 a:link {
     color: black;
     text-decoration: none;
