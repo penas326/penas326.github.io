@@ -20,10 +20,10 @@
 }
 
 .a-left{
-    position:relative;
+    position:absolute;
 }
 .a-right{
-    position:relative;
+    position:absolute;
     padding-left: 35px;
 }
 
