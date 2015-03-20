@@ -1,0 +1,71 @@
+.body {
+    font-size: 0;
+}
+
+.word-wrapper {
+    display: inline-block;
+}
+
+.aa {width: 660px;}
+
+.letter-wrapper {
+        display: inline-block;
+        margin: 0 0 100px 0;
+}
+
+.letter {
+    /*background: #ff0;*/
+    width: 300px;
+    height: 400px;
+    position: relative;
+    transform: rotate(10deg);
+    transform-origin: top left;
+}
+
+.bar {
+    background: #000;
+    position: absolute;
+    border-radius: 50px;
+}
+
+.horizontal {
+    height: 50px;
+    width: 300px;
+}
+
+.vertical {
+    height: 50px;
+    width: 350px;
+    background: #f0f;
+}
+
+.a-left {
+    top: 0;
+    left: 0;
+}
+
+.a-top {
+    top: 0;
+    left: 0;
+}
+
+.a-right {
+    right: 0;
+}
+
+.a-mid {
+    left: 0;
+    top: 175px;
+    
+}
+
+.circle {
+    background: #000;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border-radius: 100px;
+    position: fixed;
+    top: 50px;
+    right: 100px;
+}
