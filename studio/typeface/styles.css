@@ -9,8 +9,8 @@
 }
 .letter-wrapper {
         display: inline-block;
-        width: 31px;
-        height: 50px;
+        width: 35px;
+        height: 81px;
 }
 
 .letter a{
@@ -24,5 +24,10 @@
 }
 .a-right{
     position:relative;
+    padding-left: 35px;
 }
 
+.a-horizontalbar{
+    position:relative;
+    horizontal: middle;
+}
