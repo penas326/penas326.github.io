@@ -2,8 +2,9 @@
     font-size: 0;
 }
 .pixel {
-    width: 14px;
-	height: 14px;
+    width: 7px;
+	height: 7px;
+	margin: 2px;
 	background: #0000ff;
 }
 .letter-wrapper {
