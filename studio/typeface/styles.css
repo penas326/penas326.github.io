@@ -2,11 +2,7 @@
     font-size: 0;
 }
 
-.word-wrapper {
-    display: inline-block;
-}
-
-.aa {width: 660px;}
+.a {width: 660px;}
 
 .letter-wrapper {
         display: inline-block;
@@ -20,6 +16,12 @@
     position: relative;
     transform: rotate(10deg);
     transform-origin: top left;
+}
+
+.pixel {
+    width: 100px;
+	height: 100px;
+	background: #0000ff;
 }
 
 .bar {
@@ -57,15 +59,4 @@
     left: 0;
     top: 175px;
     
-}
-
-.circle {
-    background: #000;
-    width: 200px;
-    height: 200px;
-    display: inline-block;
-    border-radius: 100px;
-    position: fixed;
-    top: 50px;
-    right: 100px;
 }
