@@ -1,33 +1,13 @@
-.body {
+.letter-wrapper {
     font-size: 0;
+    line-height: 0;
+    width: 45px;
+    height: 83px;
 }
+
 .pixel {
+    display: inline-block;
     width: 7px;
 	height: 7px;
-	margin: 2px;
-	background: #0000ff;
-}
-.letter-wrapper {
-        display: inline-block;
-        width: 45px;
-        height: 83px;
-}
-
-.letter a{
-    /*background: #ff0;*/
-    position: relative;
-    transform-origin: top left;
-}
-
-.a-left{
-    position:absolute;
-}
-.a-right{
-    position:absolute;
-    padding-left: 35px;
-}
-
-.a-horizontalbar{
-    position:relative;
-    horizontal: middle;
+	background: #f1f1f1;
 }
