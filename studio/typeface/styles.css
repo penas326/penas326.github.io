@@ -2,8 +2,8 @@
     font-size: 0;
 }
 .pixel {
-    width: 28px;
-	height: 28px;
+    width: 14px;
+	height: 14px;
 	background: #0000ff;
 }
 .letter-wrapper {
@@ -16,5 +16,9 @@
     /*background: #ff0;*/
     position: relative;
     transform-origin: top left;
+}
+
+.a-left{
+    position:relative;
 }
 
