@@ -1,7 +1,11 @@
 .body {
     font-size: 0;
 }
-
+.pixel {
+    width: 28px;
+	height: 28px;
+	background: #0000ff;
+}
 .letter-wrapper {
         display: inline-block;
         width: 31px;
@@ -14,8 +18,3 @@
     transform-origin: top left;
 }
 
-.pixel {
-    width: 28px;
-	height: 28px;
-	background: #0000ff;
-}
