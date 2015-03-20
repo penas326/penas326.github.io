@@ -20,23 +20,3 @@
 	height: 28px;
 	background: #0000ff;
 }
-
-.a-left {
-    top: 0;
-    left: 0;
-}
-
-.a-top {
-    top: 0;
-    left: 0;
-}
-
-.a-right {
-    right: 0;
-}
-
-.a-mid {
-    left: 0;
-    top: 175px;
-    
-}
