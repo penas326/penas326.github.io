@@ -3,6 +3,8 @@
     line-height: 0;
     width: 45px;
     height: 83px;
+    background:#00ff00;
+    position: absolute;
 }
 
 .pixel {
@@ -112,7 +114,11 @@
 }
 
 .letter-z {
-    opacity:1.;
+    opacity:1.0;
+}
+
+.letter-lquotes {
+    top:8610px;
 }
 
 .red {
