@@ -17,59 +17,104 @@
 }
 
 .letter-b {
-    opacity:.02;
+    opacity:.03;
 }
 
 .letter-c {
-    opacity:.04;
+    opacity:.06;
 }
 .letter-d {
-    opacity:.07;
+    opacity:.09;
 }
 
 .letter-e {
-    opacity:.10;
+    opacity:.12;
 }
 
 .letter-f {
-    opacity:.13;
-}
-
-.letter-g {
     opacity:.16;
 }
 
-.letter-h {
+.letter-g {
     opacity:.20;
 }
 
+.letter-h {
+    opacity:.24;
+}
+
 .letter-i {
-    opacity:.23;
+    opacity:.28;
 }
 
 .letter-j {
-    opacity:.27;
+    opacity:.31;
 }
 
 .letter-k {
-    opacity:.30;
+    opacity:.35;
 }
 
 .letter-l {
-    opacity:.34;
+    opacity:.39;
 }
 
 .letter-m {
-    opacity:.38;
-}
-
-.letter-n {
     opacity:.42;
 }
 
-.letter-o {
-    opacity:.47;
+.letter-n {
+    opacity:.46;
 }
+
+.letter-o {
+    opacity:.50;
+}
+
+.letter-p {
+    opacity:.54;
+}
+
+.letter-q {
+    opacity:.57;
+}
+
+.letter-r {
+    opacity:.60;
+}
+
+.letter-s {
+    opacity:.64;
+}
+
+.letter-t {
+    opacity:.68;
+}
+
+.letter-u {
+    opacity:.71;
+}
+
+.letter-v {
+    opacity:.74;
+}
+
+.letter-w {
+    opacity:.88;
+}
+
+.letter-x {
+    opacity:.92;
+}
+
+.letter-y {
+    opacity:.96;
+}
+
+.letter-z {
+    opacity:1.;
+}
+
 .red {
     background: #f00;
 }
