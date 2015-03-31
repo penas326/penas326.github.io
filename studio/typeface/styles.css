@@ -1,5 +1,5 @@
 body {
-        background:#00ff00;
+    background:#00ff00;
 }
 
 .word-wrapper {
@@ -24,6 +24,7 @@ body {
 
 .letter-a {
     opacity:.0;
+    outline:white solid thin;
 }
 
 .letter-b {
@@ -125,8 +126,6 @@ body {
     opacity:1.0;
 }
 
-.letter-lquotes {
-}
 
 .red {
     background: #f00;
@@ -138,4 +137,8 @@ body {
 
 .blue {
     background: #00f;
+}
+
+a:hover {
+    color: white;
 }
