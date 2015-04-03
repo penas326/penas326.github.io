@@ -48,14 +48,17 @@ body {
 
 .letter-g {
     opacity:.20;
+    margin-left: 40;
 }
 
 .letter-h {
     opacity:.24;
+    margin-left: 40;
 }
 
 .letter-i {
     opacity:.28;
+    margin-left: 40;
 }
 
 .letter-j {
@@ -68,6 +71,7 @@ body {
 
 .letter-l {
     opacity:.39;
+    margin-left: 40;    
 }
 
 .letter-m {
@@ -100,6 +104,7 @@ body {
 
 .letter-t {
     opacity:.68;
+    margin-left: 40;
 }
 
 .letter-u {
