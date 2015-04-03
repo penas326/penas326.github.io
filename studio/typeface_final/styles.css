@@ -9,16 +9,12 @@ body {
 }
 
 .light-wrapper {
-    font-size: 0;
-    display: inline-block;
-    padding:80;
-}
-.letter-wrapper {
+    width: 610px;
     line-height: 0;
-    width: 45px;
     height: 83px;
     position: absolute;
     display: inline-block;
+    margin-left: 220px;
 }
 .pixel {
     display: inline-block;
@@ -53,17 +49,17 @@ body {
 
 .letter-g {
     opacity:.20;
-    margin-left: 40;
+    margin-left: 280;
 }
 
 .letter-h {
-    opacity:.24;
-    margin-left: 40;
+  opacity: .24;
+  margin-left: 330;
 }
 
 .letter-i {
     opacity:.28;
-    margin-left: 40;
+    margin-left: 230;
 }
 
 .letter-j {
@@ -76,7 +72,7 @@ body {
 
 .letter-l {
     opacity:.39;
-    margin-left: 40;    
+    margin-left: 180;    
 }
 
 .letter-m {
@@ -109,7 +105,7 @@ body {
 
 .letter-t {
     opacity:.68;
-    margin-left: 40;
+    margin-left: 380;
 }
 
 .letter-u {
