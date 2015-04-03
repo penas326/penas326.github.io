@@ -1,0 +1,140 @@
+body {
+    background:#ffffff;
+}
+
+.word-wrapper {
+    font-size: 0;
+    display: inline-block;
+    padding:80;
+}
+
+.letter-wrapper {
+    line-height: 0;
+    width: 45px;
+    height: 83px;
+    position: absolute;
+    display: inline-block;
+}
+.pixel {
+    display: inline-block;
+    width: 7px;
+	height: 7px;
+	background: transparent;
+}
+
+.letter-a {
+    opacity:.0;
+    outline:white solid thin;
+}
+
+.letter-b {
+    opacity:.03;
+}
+
+.letter-c {
+    opacity:.06;
+}
+.letter-d {
+    opacity:.09;
+}
+
+.letter-e {
+    opacity:.12;
+}
+
+.letter-f {
+    opacity:.16;
+}
+
+.letter-g {
+    opacity:.20;
+}
+
+.letter-h {
+    opacity:.24;
+}
+
+.letter-i {
+    opacity:.28;
+}
+
+.letter-j {
+    opacity:.31;
+}
+
+.letter-k {
+    opacity:.35;
+}
+
+.letter-l {
+    opacity:.39;
+}
+
+.letter-m {
+    opacity:.42;
+}
+
+.letter-n {
+    opacity:.46;
+}
+
+.letter-o {
+    opacity:.50;
+}
+
+.letter-p {
+    opacity:.54;
+}
+
+.letter-q {
+    opacity:.57;
+}
+
+.letter-r {
+    opacity:.60;
+}
+
+.letter-s {
+    opacity:.64;
+}
+
+.letter-t {
+    opacity:.68;
+}
+
+.letter-u {
+    opacity:.71;
+}
+
+.letter-v {
+    opacity:.74;
+}
+
+.letter-w {
+    opacity:.88;
+}
+
+.letter-x {
+    opacity:.92;
+}
+
+.letter-y {
+    opacity:.96;
+}
+
+.letter-z {
+    opacity:1.0;
+}
+
+
+.red {
+    background: #f00;
+}
+
+.green {
+    background: #0f0;
+}
+
+.blue {
+    background: #00f;
+}
