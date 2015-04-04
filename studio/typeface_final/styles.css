@@ -190,3 +190,17 @@ body {
 .letter-20 {
   margin-left: 45;
 }
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: #808080;
+
+}
