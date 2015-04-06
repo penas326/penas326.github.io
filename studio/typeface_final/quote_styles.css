@@ -17,7 +17,7 @@ body {
     line-height: 0;
     width: 45px;
     height: 83px;
-    position: absolute;
+    position: static;
     display: inline-block;
 }
 .pixel {
