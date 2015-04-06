@@ -1,0 +1,206 @@
+body {
+    background:#ffffff;
+}
+
+.word-wrapper {
+    font-size: 0;
+    display: inline-block;
+    padding:50px;
+}
+
+.light-wrapper {
+  font-size: 0;
+  display: inline-block;
+  width: 600px;
+  margin-left: 435px;
+  margin-top: 300px;
+}
+.number-wrapper {
+  height: 500px;
+  width: 1000px;
+  padding-left: 110;
+  padding-top: 90;
+}
+.letter-wrapper {
+    line-height: 0;
+    width: 45px;
+    height: 83px;
+    position: absolute;
+    display: inline-block;
+}
+.pixel {
+    display: inline-block;
+    width: 7px;
+	height: 7px;
+	background: transparent;
+}
+
+.letter-a {
+    opacity:.0;
+    outline:white solid thin;
+}
+
+.letter-b {
+    opacity:.03;
+}
+
+.letter-c {
+    opacity:.06;
+}
+.letter-d {
+    opacity:.09;
+}
+
+.letter-e {
+    opacity:.12;
+}
+
+.letter-f {
+    opacity:.16;
+}
+
+.letter-g {
+    opacity:.20;
+    margin-left: 145;
+}
+
+.letter-h {
+    opacity:.24;
+    margin-left: 200;
+}
+
+.letter-i {
+    opacity:.28;
+    margin-left: 92px;
+}
+
+.letter-j {
+    opacity:.31;
+}
+
+.letter-k {
+    opacity:.35;
+}
+
+.letter-l {
+    opacity:.39;
+    margin-left: 40;    
+}
+
+.letter-m {
+    opacity:.42;
+}
+
+.letter-n {
+    opacity:.46;
+}
+
+.letter-o {
+    opacity:.50;
+}
+
+.letter-p {
+    opacity:.54;
+}
+
+.letter-q {
+    opacity:.57;
+}
+
+.letter-r {
+    opacity:.60;
+}
+
+.letter-s {
+    opacity:.64;
+}
+
+.letter-t {
+    opacity:.68;
+    margin-left: 250;
+}
+
+.letter-u {
+    opacity:.71;
+}
+
+.letter-v {
+    opacity:.74;
+}
+
+.letter-w {
+    opacity:.88;
+}
+
+.letter-x {
+    opacity:.92;
+}
+
+.letter-y {
+    opacity:.96;
+}
+
+.letter-z {
+    opacity:1.0;
+}
+
+
+.red {
+    background: #f00;
+}
+
+.green {
+    background: #0f0;
+}
+
+.blue {
+    background: #00f;
+}
+
+.letter-10 {
+  margin-left: 40;
+}
+.letter-11 {
+  margin-left: 40;
+}
+.letter-12 {
+  margin-left: 40;
+}
+.letter-13 {
+  margin-left: 40;
+}
+.letter-14 {
+  margin-left: 40;
+}
+.letter-15 {
+  margin-left: 40;
+}
+.letter-16 {
+  margin-left: 40;
+}
+.letter-17 {
+  margin-left: 40;
+}
+.letter-18 {
+  margin-left: 40;
+}
+.letter-19 {
+  margin-left: 40;
+}
+.letter-20 {
+  margin-left: 45;
+}
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: #808080;
+
+}
