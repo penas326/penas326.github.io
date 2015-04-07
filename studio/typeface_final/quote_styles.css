@@ -149,50 +149,17 @@ body {
     background: #00f;
 }
 
-.letter-10 {
-  margin-left: 40;
-}
-.letter-11 {
-  margin-left: 40;
-}
-.letter-12 {
-  margin-left: 40;
-}
-.letter-13 {
-  margin-left: 40;
-}
-.letter-14 {
-  margin-left: 40;
-}
-.letter-15 {
-  margin-left: 40;
-}
-.letter-16 {
-  margin-left: 40;
-}
-.letter-17 {
-  margin-left: 40;
-}
-.letter-18 {
-  margin-left: 40;
-}
-.letter-19 {
-  margin-left: 40;
-}
-.letter-20 {
-  margin-left: 45;
-}
 a:link {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 a:hover {
-    color: #808080;
+    color: #ffffff;
 
 }
