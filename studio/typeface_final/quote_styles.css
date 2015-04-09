@@ -155,11 +155,8 @@ a:link {
 }
 
 /* visited link */
-a:visited {
-    color: #ffffff;
-    text-decoration: none;
-}
-a:hover {
-    color: #ffffff;
+
+.letter-wrapper:hover .pixel  {
+    background-color: white;
 
 }
