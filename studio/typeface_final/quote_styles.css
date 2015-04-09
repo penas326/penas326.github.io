@@ -150,13 +150,13 @@ body {
 }
 
 a:link {
-    color: white;
+    color: #ffffff;
     text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-    color: white;
+    color: #ffffff;
     text-decoration: none;
 }
 a:hover {
