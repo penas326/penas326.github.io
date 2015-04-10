@@ -13,11 +13,11 @@ body {
     padding:25px;
 }
 .number-wrapper {
-  height: 500px;
-  width: 1000px;
-  padding-left: 110;
-  padding-top: 90;
+  padding-left: 900;
+  top: 550px;
+  position: fixed;
 }
+
 .letter-wrapper {
     line-height: 0;
     width: 45px;
