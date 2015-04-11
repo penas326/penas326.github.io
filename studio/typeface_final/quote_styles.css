@@ -161,3 +161,9 @@ a:link {
     opacity: 1.0;
 
 }
+
+.letter-wrapper:hover .green {
+    background-color: #ffff19;
+    opacity: 1.0;
+
+}
