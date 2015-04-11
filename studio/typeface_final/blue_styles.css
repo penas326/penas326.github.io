@@ -160,7 +160,7 @@ a:link {
 
 /* visited link */
 
-.letter-wrapper:hover .blue {
+.letter-wrapper:hover .white {
     background-color: #ffff00;
     opacity: 1.0;
 
