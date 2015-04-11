@@ -156,13 +156,7 @@ a:link {
 
 /* visited link */
 
-.letter-wrapper:hover .blue {
-    background-color: #ffff00;
-    opacity: 1.0;
-
-}
-
-.letter-wrapper:hover .green {
+.letter-wrapper:hover .blue .green {
     background-color: #ffff00;
     opacity: 1.0;
 
