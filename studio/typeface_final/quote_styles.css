@@ -150,13 +150,14 @@ body {
 }
 
 a:link {
-    color: #ffffff;
+    color: yellow;
     text-decoration: none;
 }
 
 /* visited link */
 
-.letter-wrapper:hover .pixel  {
-    background-color: white;
+.letter-wrapper:hover .blue {
+    background-color: #ffff00;
+    opacity: 1.0;
 
 }
