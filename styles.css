@@ -53,3 +53,16 @@ body {
     background-color: white;
     font-family: "Poplar Std Black", sans-serif; 
 }
+
+a:link {
+    color: red;
+    text-decoration:none;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+a:hover {
+    color: red;
+}
