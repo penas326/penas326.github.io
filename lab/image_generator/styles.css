@@ -1,0 +1,47 @@
+.cat-holder {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
+.cat-holder img {
+  width: 100%;
+  display: block;
+}
+
+.poem-holder {
+  font-size: 18px;
+  font-family: "American Typewriter", serif;
+  position: fixed;
+  z-index: 100;
+  color: black;
+  background:white;
+  width:30 px;  
+  padding: 10px;  
+  top: 400px  
+}
+
+.go-button {
+  background-color: white;
+  width: 300px;
+  height: 20px;
+  font-family: "American Typewriter", serif;
+  font-size: 14px;
+  position: fixed;
+  top: 20px;
+  right: 100px;
+  color: black;
+  text-align: center;
+  z-index: 1000;
+  
+}
+.dot {
+  position: absolute;
+  background-color: white;
+  width: 800px;
+  height: 4px;
+}
+
+
+
