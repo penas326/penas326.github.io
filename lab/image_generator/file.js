@@ -33,21 +33,19 @@ $(".go-button").click(function() {
 $(".line").css("height", newheight);
   
   
-for (var increment = 0; increment < 10; increment++) {
+for (var increment = 0; increment < 100; increment++) {
   $("body").append("<div class='dot'></div>"); 
 }
-  
+
 $(".dot").each(function() {
   var newtop = Math.floor(Math.random()*100) + "%";
   var newleft = Math.floor(Math.random()*100) + "%";
   $(this).css("top",newtop);
   $(this).css("left",newleft);
 });
-    
+  
+  
 });
-
-
-
 
 
 
