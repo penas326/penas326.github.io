@@ -37,3 +37,4 @@ $(".go-button").click(function() {
     $(this).css("top",newtop);
     $(this).css("left",newleft);
   });
+});  
