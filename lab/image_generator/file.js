@@ -13,9 +13,8 @@ var poems = ["Somewhere over the rainbow", "Way up high", "And the dreams that y
 
 
 var selectedpoem = false;
-
+ 
 $(".go-button").click(function() {
-  
   var nextpoem = poems[Math.floor(Math.random()*poems.length)];
   
   while (selectedpoem == nextpoem) {
@@ -23,32 +22,22 @@ $(".go-button").click(function() {
   }
   
   selectedpoem = nextpoem;
-  
   $(".poem-holder").html(nextpoem);
-
   $(".cat-holder").html('<img src="' + cats[Math.floor(Math.random()*cats.length)]+ '">');
-  
   var newheight = (Math.floor(Math.random() * 100) + 100) + "px";
-
-$(".line").css("height", newheight);
+  $(".line").css("height", newheight);
   
-  
-for (var increment = 0; increment < 10; increment++) {
-  $("body").append("<div class='dot'></div>"); 
-}
-  
-$(".dot").each(function() {
-  var newtop = Math.floor(Math.random()*100) + "%";
-  var newleft = Math.floor(Math.random()*100) + "%";
-  $(this).css("top",newtop);
-  $(this).css("left",newleft);
+  for (var increment = 0; increment < 100; increment++) {
+    $("body").append("<div class='dot'></div>"); 
+  }
+ 
+  $(".dot").each(function() {
+    var newtop = Math.floor(Math.random()*100) + "%";
+    var newleft = Math.floor(Math.random()*100) + "%";
+    $(this).css("top",newtop);
+    $(this).css("left",newleft);
+  });
 });
-    
-});
-
-
-
-
 
 
 
