@@ -33,7 +33,6 @@
     color: red;
     font-size: 16px;
     font-family: "Times New Roman"; 
-    margin: 0px;
     width: 174px;
     height: 284px;
     position: absolute;
@@ -49,13 +48,43 @@
 }
 
 .specialties{
-    color: red;
-    font-size: 16px;
-    font-family: "Times New Roman"; 
     margin-top: 203px;
-    margin-left: px;
-    width: 174px;
-    height: 134px;
+    margin-left: 17px;
     position: absolute;
-    margin
+}
+
+.appetizers{
+    margin-top: 203px;
+    margin-left: 201px;
+    position: absolute;
+}
+
+.soups{
+    margin-top: 349px;
+    margin-left: 201px;
+    position: absolute;
+}
+
+.beef{
+    margin-top: 203px;
+    margin-left: 394px;
+    position: absolute;
+}
+
+.seafood{
+    margin-top: 203px;
+    margin-left: 583px;
+    position: absolute;
+}
+
+.chicken{
+    margin-top: 349px;
+    margin-left: 583px;
+    position: absolute;
+}
+
+.comboplatter{
+    margin-top: 203px;
+    margin-left: 767px;
+    position: absolute;
 }
