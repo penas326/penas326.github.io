@@ -1,0 +1,61 @@
+.title {
+    color: black;
+    font-size: 48px;
+    font-family: "Krungthep"; 
+    margin: 0px;
+    padding-top: 30px;
+    position: static;
+}
+
+.subhead {
+    color: black;
+    font-size: 24px;
+    font-family: "Times New Roman"; 
+    margin: 0px;
+}
+
+.subsubhead {
+    color: black;
+    font-size: 16px;
+    font-family: "Times New Roman"; 
+     font-style: italic;
+    margin: 0px;
+}
+
+.dashedline {
+    color: black;
+    font-size: 24px;
+    font-family: "Times New Roman"; 
+    margin: 0px;
+}
+
+.largemenuoption {
+    color: red;
+    font-size: 16px;
+    font-family: "Times New Roman"; 
+    margin: 0px;
+    width: 174px;
+    height: 284px;
+    position: absolute;
+}
+.smallmenuoption {
+    color: red;
+    font-size: 16px;
+    font-family: "Times New Roman"; 
+    margin: 0px;
+    width: 174px;
+    height: 134px;
+    position: absolute;
+}
+
+.specialties{
+    color: red;
+    font-size: 16px;
+    font-family: "Times New Roman"; 
+    margin-top: 203px;
+    margin-left: px;
+    width: 174px;
+    height: 134px;
+    position: absolute;
+    margin
+}
