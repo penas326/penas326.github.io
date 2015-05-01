@@ -28,23 +28,32 @@ hover {
 }
 
 .fortune-wrapper {
-  width: 223px;
+    width: 223px;
   height: 61px;
   background: white;
-  color: blue;
+  color: #00008B;
   font-size: 10px;
   vertical-align: middle;
   border-style: solid;
   border-width: 1px;
   border-color: black;
-  margin: 100px;
-  text-align: center; 
-  line-height: 50px;  
+  text-align: center;
+  line-height: 50px;
+  position: fixed;
+}  
+
+.cornerleft {
+  width: 30px;
+  height: 8px;
+  background: #00008B;
+  position: fixed;
+  margin:50;
 }
 
-.corner {
-  width: 223px;
-  height: 61px;
-  background: black;
-}	
-
+.cornerright {
+  width: 30px;
+  height: 8px;
+  background: #00008B;
+  position: fixed;
+  margin:100;
+}
