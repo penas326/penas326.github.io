@@ -28,7 +28,7 @@ hover {
 }
 
 .fortune-wrapper {
-    width: 223px;
+  width: 223px;
   height: 61px;
   background: white;
   color: #00008B;
@@ -42,18 +42,39 @@ hover {
   position: fixed;
 }  
 
+
 .cornerleft {
   width: 30px;
   height: 8px;
   background: #00008B;
-  position: fixed;
-  margin:50;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.cornerbottomleft {
+  width: 30px;
+  height: 4px;
+  background: #00008B;
+  position: absolute;
+  left: 0;
+  bottom:0;
 }
 
 .cornerright {
-  width: 30px;
+  width: 8px;
   height: 8px;
   background: #00008B;
-  position: fixed;
-  margin:100;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.cornerbottomright {
+  width: 8px;
+  height: 4px;
+  background: #00008B;    
+  position: absolute;
+  right: 0;
+  bottom: 0;
 }
