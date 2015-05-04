@@ -1,0 +1,48 @@
+body {
+    background: #FF6262;
+
+}
+
+.title {
+    color: white;
+    font-size: 30px;
+    font-family: "Times New Roman"; 
+    margin: 10px;
+    position: fixed;
+    padding:10px;
+}
+
+.h6 {
+    color: white;
+    font-size: 30px;
+    font-family: "Times New Roman"; 
+    position: relative;
+    left:1190px;
+}
+
+.h7 {
+    color: black;
+    font-size: 30px;
+    font-family: "Times New Roman"; 
+    position: relative;
+    left:10000px;
+}
+
+.h6{
+    color: black;
+    font-size: 60px;
+    font-family: "Times New Roman"; 
+}
+
+a:link {
+    color: black;
+    text-decoration:none;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+a:hover {
+    color: red;
+}
