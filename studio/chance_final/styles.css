@@ -33,8 +33,8 @@ body {
   border-width: 1px;
   border-color: black;
   text-align: center;
-  position: relative;
-  margin: 50px;
+  position: fixed;
+
 }  
 
 .cornerleft {
@@ -71,4 +71,153 @@ body {
   position: absolute;
   right: 0;
   bottom: 0;
+}
+
+.fortune-1 {
+  margin-top:80px;
+}
+
+.fortune-2 {
+  margin-top: 112px;
+  margin-left:240px;
+}
+
+.fortune-3 {
+  margin-top: 80px;
+  margin-left:500px;
+}
+
+.fortune-4 {
+  margin-top: 0px;
+  margin-left:200px;
+}
+
+.fortune-5 {
+  margin-top: 0px;
+  margin-left:700px;
+}
+
+.fortune-6 {
+  margin-top: 400px;
+  margin-left: 400px;
+}
+
+.fortune-7 {
+    margin-top: 75px;
+  margin-left:800px;
+}
+
+.fortune-8 {
+  margin-top: 0px;
+  margin-left:1000px;
+}
+
+.fortune-9 {
+    margin-left: 40px;
+    margin-top: 200px;
+}
+
+.fortune-10 {
+  margin-top: 200px;
+  margin-left: 300px;
+}
+
+.fortune-11 {
+  margin-top: 180px;
+  margin-left: 560px;
+}
+
+.fortune-12 {
+  margin-top: 200px;
+  margin-left:800;
+}
+
+.fortune-13 {
+  margin-top: 130px;
+  margin-left:1030;
+}
+
+.fortune-14 {
+  margin-top: 280px;
+  margin-left:20px;
+}
+
+.fortune-15 {
+  margin-top: 300px;
+  margin-left:270px;
+}
+
+.fortune-16 {
+  margin-top: 270px;
+  margin-left:540px;
+}
+
+.fortune-17 {
+  margin-top: 300px;
+  margin-left:780px;
+}
+
+.fortune-18 {
+  margin-top: 260px;
+  margin-left:1030px;
+}
+
+.fortune-19 {
+  margin-top: 376px;
+  margin-left:50px;
+}
+
+.fortune-20 {
+  margin-top: 0px;
+  margin-left:450px;
+}
+
+.fortune-21 {
+  margin-top: 376px;
+  margin-left:650px;
+}
+
+.fortune-22 {
+  margin-top: 376px;
+  margin-left:950px;
+}
+
+.fortune-23 {
+  margin-top: 456px;
+  margin-left:10px;
+}
+
+.fortune-24 {
+  margin-top: 466px;
+  margin-left:260px;
+}
+
+.fortune-25 {
+  margin-top: 466px;
+  margin-left:560px;
+}
+
+.fortune-26 {
+  margin-top: 466px;
+  margin-left:860px;
+}
+
+.fortune-27 {
+  margin-top: 556px;
+  margin-left:60px;
+}
+
+.fortune-28 {
+  margin-top: 556px;
+  margin-left:360px;
+}
+
+.fortune-29 {
+  margin-top: 560px;
+  margin-left:610px;
+}
+
+.fortune-30 {
+  margin-top: 560px;
+  margin-left:910px;
 }
