@@ -21,11 +21,6 @@ body {
     left:1190px;
 }
 
-hover {
-    background-color: #00FFFF;
-    text-decoration: none;
-
-}
 
 .fortune-wrapper {
   width: 223px;
@@ -38,10 +33,9 @@ hover {
   border-width: 1px;
   border-color: black;
   text-align: center;
-  line-height: 50px;
-  position: fixed;
+  position: relative;
+  margin: 50px;
 }  
-
 
 .cornerleft {
   width: 30px;
