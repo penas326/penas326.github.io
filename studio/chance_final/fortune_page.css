@@ -4,45 +4,42 @@ body {
 }
 
 .title {
-    color: white;
+    color: black;
     font-size: 30px;
     font-family: "Times New Roman"; 
     margin: 10px;
     position: fixed;
     padding:10px;
-}
-
-.h6 {
-    color: white;
-    font-size: 30px;
-    font-family: "Times New Roman"; 
-    position: relative;
-    left:1190px;
-}
-
-.h7 {
-    color: black;
-    font-size: 30px;
-    font-family: "Times New Roman"; 
-    position: relative;
-    left:10000px;
-}
-
-.h6{
-    color: black;
-    font-size: 60px;
-    font-family: "Times New Roman"; 
+    text-decoration: underline;    
+    
 }
 
 a:link {
     color: black;
-    text-decoration:none;
 }
 
 /* visited link */
 a:visited {
     color: black;
+    
 }
 a:hover {
-    color: red;
+    color: white;
+}
+
+h6 {
+    font-size: 30px;
+    position:fixed;
+    margin-left:1100px;
+    margin-top: 590px;
+    text-decoration: underline;    
+
+}
+
+h7 {
+    font-size: 30px;
+    font-family: "Times New Roman"; 
+    position: fixed;
+    text-decoration: underline;  
+    margin-left:1150px;
 }
