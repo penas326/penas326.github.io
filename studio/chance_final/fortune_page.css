@@ -101,8 +101,13 @@ a:visited {
     color: #00008B;
     
 }
-a:hover {
-    color: white;
+
+h6:hover {
+  -moz-box-shadow: 0 0 20px #ccc; -webkit-box-shadow: 0 0 20px #ccc; box-shadow: 0 0 30px #ccc; 
+}
+
+h7:hover {
+  -moz-box-shadow: 0 0 20px #ccc; -webkit-box-shadow: 0 0 20px #ccc; box-shadow: 0 0 30px #ccc; 
 }
 
 h6 {
