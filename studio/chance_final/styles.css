@@ -10,7 +10,7 @@ body {
     margin: 10px;
     position: fixed;
     padding:10px;
-text-decoration: underline;    
+  text-decoration: underline;    
 }
 
 .fortune-wrapper {
@@ -212,6 +212,7 @@ text-decoration: underline;
   margin-top: 560px;
   margin-left:910px;
 }
+
 
 a:link {
     color: black;

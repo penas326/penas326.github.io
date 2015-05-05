@@ -14,6 +14,83 @@ body {
     
 }
 
+
+.fortune-wrapper {
+  width: 223px;
+  height: 61px;
+  background: white;
+  color: #00008B;
+  font-size: 10px;
+  vertical-align: middle;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  text-align: center;
+  position: fixed;
+
+}  
+
+.cornerleft {
+  width: 30px;
+  height: 8px;
+  background: #00008B;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.cornerbottomleft {
+  width: 30px;
+  height: 4px;
+  background: #00008B;
+  position: absolute;
+  left: 0;
+  bottom:0;
+}
+
+.cornerright {
+  width: 8px;
+  height: 8px;
+  background: #00008B;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.cornerbottomright {
+  width: 8px;
+  height: 4px;
+  background: #00008B;    
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+.fortune-1 {
+  margin-top:100px;
+  margin-left:10px;
+}
+
+.fortune-2 {
+  margin-top:100px;
+  margin-left:266px;
+}
+
+.fortune-3 {
+  margin-top:100px;
+  margin-left: 520px;
+}
+
+.fortune-4 {
+  margin-top:100px;
+  margin-left:775px;
+}
+
+.fortune-5 {
+  margin-top:100px;
+  margin-left:1028px;
+}
+
 a:link {
     color: black;
 }
@@ -30,8 +107,8 @@ a:hover {
 h6 {
     font-size: 30px;
     position:fixed;
-    margin-left:1100px;
-    margin-top: 590px;
+    margin-left:1105px;
+    margin-top: 515px;
     text-decoration: underline;    
 
 }
@@ -41,5 +118,6 @@ h7 {
     font-family: "Times New Roman"; 
     position: fixed;
     text-decoration: underline;  
-    margin-left:1150px;
+    margin-left:1166px;
 }
+
