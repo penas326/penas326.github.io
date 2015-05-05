@@ -1,5 +1,5 @@
 body {
-    background: #FFFACD;
+    background: #FFEBCD;
 
 }
 
@@ -10,7 +10,6 @@ body {
     margin: 10px;
     position: fixed;
     padding:10px;
-  text-decoration: underline;    
 }
 
 .fortune-wrapper {
@@ -220,6 +219,7 @@ a:link {
     position:fixed;
     top:630px;
     left:1200px;
+    text-decoration:none;
   
 }
 

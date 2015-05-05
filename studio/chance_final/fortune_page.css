@@ -1,5 +1,5 @@
 body {
-    background: #FFFACD;
+    background: #FFEBCD;
 
 }
 
@@ -10,7 +10,6 @@ body {
     margin: 10px;
     position: fixed;
     padding:10px;
-    text-decoration: underline;    
     
 }
 
@@ -93,6 +92,7 @@ body {
 
 a:link {
     color: #00008B;
+    text-decoration:none;
 }
 
 /* visited link */
@@ -111,7 +111,6 @@ h6 {
     margin-left: 1092px;
     position: fixed;
     padding:10px;
-    text-decoration: underline;    
 }
 
 h7 {
@@ -121,7 +120,6 @@ h7 {
     margin-left: 1155px;
     position: fixed;
     padding:10px;
-    text-decoration: underline;    
     
 }
 
