@@ -4,7 +4,7 @@ body {
 }
 
 .title {
-    color: black;
+    color: #00008B;
     font-size: 30px;
     font-family: "Times New Roman"; 
     margin: 10px;
@@ -92,12 +92,12 @@ body {
 }
 
 a:link {
-    color: black;
+    color: #00008B;
 }
 
 /* visited link */
 a:visited {
-    color: black;
+    color: #00008B;
     
 }
 a:hover {
@@ -106,18 +106,22 @@ a:hover {
 
 h6 {
     font-size: 30px;
-    position:fixed;
-    margin-left:1105px;
-    margin-top: 515px;
+    font-family: "Times New Roman"; 
+    margin-top: 610px;
+    margin-left: 1092px;
+    position: fixed;
+    padding:10px;
     text-decoration: underline;    
-
 }
 
 h7 {
     font-size: 30px;
     font-family: "Times New Roman"; 
+    margin-top: 20px;
+    margin-left: 1155px;
     position: fixed;
-    text-decoration: underline;  
-    margin-left:1166px;
+    padding:10px;
+    text-decoration: underline;    
+    
 }
 

@@ -4,7 +4,7 @@ body {
 }
 
 .title {
-    color: black;
+    color: #00008B;
     font-size: 30px;
     font-family: "Times New Roman"; 
     margin: 10px;
@@ -215,7 +215,7 @@ body {
 
 
 a:link {
-    color: black;
+    color: #00008B;
     font-size: 30px;
     position:fixed;
     top:630px;
@@ -225,7 +225,7 @@ a:link {
 
 /* visited link */
 a:visited {
-    color: black;
+    color: #00008B;
 }
 a:hover {
     color: white;
