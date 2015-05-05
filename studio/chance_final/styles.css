@@ -231,3 +231,15 @@ a:visited {
 h6:hover {
   -moz-box-shadow: 0 0 20px #ccc; -webkit-box-shadow: 0 0 20px #ccc; box-shadow: 0 0 30px #ccc; 
 }
+
+.fortune-wrapper {
+  opacity: 0;
+}
+
+.fortune-wrapper:hover {
+  opacity: 1;
+}
+
+.fortune-wrapper.keep {
+  opacity: 1;
+}
