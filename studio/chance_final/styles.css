@@ -241,5 +241,6 @@ h6:hover {
 }
 
 .fortune-wrapper.keep {
+  background-color: cyan;
   opacity: 1;
 }

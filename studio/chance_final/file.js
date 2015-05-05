@@ -13,8 +13,8 @@ $('.go-button').click(function(event) {
   event.preventDefault();
   
   if (Fortune.selected > 4) {
-    alert('show the fortune...');
     
-    $('.fortune-wrapper.keep');
+    open('fortune_page.html');
+    
   }
 });
