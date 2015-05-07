@@ -1,4 +1,4 @@
-Fortune = {
+var Fortune = {
   selected : 0
 }
 
@@ -38,13 +38,15 @@ $('.fortune-wrapper').click(function() {
   if (Fortune.selected < 5) {
     $(this).addClass('keep');
     $(this).data("selectorder", Fortune.selected);
+    console.log(Fortune.selected);
   }
   Fortune.selected += 1;
 });
 
 $('.go-button').click(function(event) {
   event.preventDefault();
-  var pullFrom = $('.slide-link[data-selectorder="0"]').data("answers"));
+  var pullFrom = $('.fortune-wrapper[data-selectorder="0"]').data("answers");
+  console.log(pullFrom);
   //var firstresponse = responses + $('.slide-link[data-selectorder="0"]')[Math.floor(Math.random()*)]
   $(".response-one").html(pullFrom[Math.floor(Math.random()*pullFrom.length)]);
   
