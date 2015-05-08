@@ -217,9 +217,11 @@ body {
 h6 {
     font-size: 30px;
     font-family: "Times New Roman"; 
-    margin-top: 580px;
+    margin-bottom:inherit;
     margin-left: 1180px;
+    margin-bottom: 20px;
     position: fixed;
+    bottom: 0;
     padding:10px;
     background: white;  
     color: #00008B;
