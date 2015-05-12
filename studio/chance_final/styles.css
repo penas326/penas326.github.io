@@ -3,16 +3,6 @@ body {
 
 }
 
-.title {
-    color: #00008B;
-    font-size: 30px;
-    font-family: "Times New Roman"; 
-    margin: 10px;
-    position: fixed;
-    padding:10px;
-    background:white;
-}
-
 .fortune-wrapper {
   width: 223px;
   height: 61px;
@@ -228,9 +218,9 @@ h6 {
     padding-right:15px;
     background: yellow; 
     text-align: center;
-    border-style: solid;
-    border-width: 1px;
-    border-color: black;
+      border-style: solid;
+  border-width: 1px;
+  border-color: black;
 }
 
 .go-button {
@@ -245,8 +235,40 @@ h6 {
 a:visited {
     color: #00008B;
 }
+h5:hover {
+  background-color:yellow;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  color:yellow;
+}
+
+h5 {
+  background-color:yellow;
+  font-size:10px;
+  text-decoration: none;
+  width: 70px;
+  height: 25px;
+  background-color:white;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+}
+
+.go-button.show {
+  display: block;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
 h6:hover {
-  background-color:#00008B;
+  background-color:yellow;
+  border-style: solid;
+  border-width: 1px;
+  border-color: yellow;
+  color:white;
 }
 
 .fortune-wrapper {
@@ -261,13 +283,14 @@ h6:hover {
 .fortune-wrapper.keep {
   background-color: yellow;
   opacity: 1;
+  border-color:yellow;
 }
 
 .text-fortune {
   font-family: "Times New Roman";   
   font-size:30px;
   line-height: 1.2em;
-  color: white;
+  color: red;
   position: fixed;
   width: 100%;
   height: 100%;
@@ -275,10 +298,10 @@ h6:hover {
   left: 50%;
   transform: translate(-50%, -50%);
   z-index: 500;
-  background: red;
+  background: yellow;
   display: none;
   text-align: center;
-padding-top:200px;
+  padding-top:200px;
 }
 
 .text-fortune.show {
