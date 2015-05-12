@@ -41,6 +41,10 @@ $('.fortune-wrapper').click(function() {
     console.log(Fortune.selected);
   }
   Fortune.selected += 1;
+  
+  if (Fortune.selected == 5) {
+    $('.go-button').addClass('show');
+  }
 });
 
 $('.go-button').click(function(event) {
@@ -52,7 +56,9 @@ $('.go-button').click(function(event) {
         list       = '<ol>' + answer + '</ol>';
         
     $('.text-fortune').prepend(list);
-    
   });
+  
+  $(this).removeClass('show');
+  $('.text-fortune').addClass('show');
 
 });
